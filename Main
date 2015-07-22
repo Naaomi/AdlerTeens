@@ -1,0 +1,61 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url(https://gm1.ggpht.com/74EK9lJ7thi6wScHhQDFQWY6uXUdnTPGDbv4i4slj3OzizCkpIhQ02Vf1rPHyxum3tjV9E4CTmo3GwBNxFf15t04Xb0A0xaxbxwd_JzzrAMK_drBV-FRAqiL1-788oTFElh1GCRlmyO2KsP8m4Bldv461s6d9UWZtrQf5UTqrJU97SHPuSU3xpVUj1-Q5rLp3mFEcCYzklVekmr7sHplczsSviTU-Yv6KaT-pK7lQVdTs4NcGtbWpKy0GWXyTppdFBlCKRF0L9-92USTLeXrUEFEoCpYJq9FNdcW5zDRuIxwpJsSVbvhnIPCyft4sNazNlnJY2yGdKYPaDkNLAoD3EwRBwsdvxzh4dXsUJp0LUhrHRW06KCIF9q3NFyDjC8fPXHiRWAQ5gHKesztuvHwTSttJnUcAys2OM0LGU_oLdiqrZtqYo7d7783NzOsLqtn2cplGKTm-49K98CgSf2hWV640mH3fBgEfU_YFxOtp2mRtBmU2AaG5gBvjYQFaFETAyeSg8E6u5-MATaCIsjIH3Ay87XSjGo-ARUf_PHY-QehnfQvN8xkICd-zIL-XbzbmEMFFdiw6RwfAtu8fVDkaB2OywwXKsFU7IYHMpj37lPn1jL5ZvDF0JwpGAc0uQ=w1256-h493-l75-ft);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+.neighborhood-guides {
+    background-color:#efefef;
+    border-bottom:1px solid #dbdbdb;
+}
+.neighborhood-guides h2 {
+    color:#393c3d;
+    font-size:24px;
+}
+.neighborhood-guides p {
+    font-size:15px;
+    margin-bottom:13px;
+}
